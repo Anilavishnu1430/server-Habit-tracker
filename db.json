@@ -1,0 +1,15 @@
+{
+  "habit": [
+    {
+      "habitName": "Drinking Water",
+      "category": "Health",
+      "status": "In Progress",
+      "frequency": "Daily",
+      "startDate": "2026-06-09",
+      "goal": "Drink atleast 3 ltr water",
+      "notes": "completed",
+      "progress": 100,
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Json server for habit-tracker\"",
+  "license": "ISC",
+  "author": "Anila",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
